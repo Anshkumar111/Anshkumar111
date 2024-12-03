@@ -5,8 +5,7 @@
 <h2>Hi 👋, I'm Ansh</h2>
 <h3>A teenager who is learning new stack of languages.</h3>
 
- - 🔭 I'm currently working on [honghong.me](https://github.com/tszhong0411/honghong.me) 
-
+<!--- 🔭 I'm currently working on [honghong.me](https://github.com/tszhong0411/honghong.me) --->
 - 🌱 I'm currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available  [HERE!!](https://github.com/Anshkumar111?tab=repositories])
