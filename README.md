@@ -1,11 +1,8 @@
-<!--- [![Hong's GitHub Banner](https://honghong.me/images/og.png)](https://honghong.me) --->
-
-![Visits Badge](https://komarev.com/ghpvc/?username=Anshkumar111&label=Profile%20views&color=red&style=for-the-badge)
-
 <h2>Hi 👋, I'm Ansh</h2>
 <h3>A teenager who is learning new stack of languages.</h3>
 
-<!--- 🔭 I'm currently working on [honghong.me](https://github.com/tszhong0411/honghong.me) --->
+![mario-working](https://github.com/user-attachments/assets/6356c27e-9d4a-450b-a47c-1bf80cb82a44)
+
 - 🌱 I'm currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available  [HERE!!](https://github.com/Anshkumar111?tab=repositories])
@@ -20,6 +17,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,py,figma,vscode,git,github,gmail,ai,ps,instagram,linkedin,twitter,nodejs,postman,py,tailwind,vscode,visualstudio,vercel,styledcomponents,sass,powershell,mysql,stackoverflow,md,firebase,express,cloudflare,bootstrap,eclipse,npm,pnpm"/>
 </p>
 
+
+
+![Visits Badge](https://komarev.com/ghpvc/?username=Anshkumar111&label=Profile%20views&color=red&style=for-the-badge)
 
 ---
 
